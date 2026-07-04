@@ -1,0 +1,1 @@
+import{a as e,n as t}from"./jsx-runtime-n5LQ9ujS.js";import{a as n,z as r}from"./index-BztKZ3Tl.js";var i=e(t());function a(){let{user:e,hydrated:t}=n(),a=r();return(0,i.useEffect)(()=>{t&&a({to:e?`/painel`:`/login`,replace:!0})},[t,e,a]),null}export{a as component};
