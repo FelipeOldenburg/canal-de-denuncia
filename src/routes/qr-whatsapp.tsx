@@ -7,6 +7,7 @@ export const Route = createFileRoute("/qr-whatsapp")({
   component: WhatsAppQrPage,
 });
 
+
 const starterText = "1";
 
 function WhatsAppQrPage() {
